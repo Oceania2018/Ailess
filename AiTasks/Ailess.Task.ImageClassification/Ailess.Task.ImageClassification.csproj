@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <AssemblyName>Ailess.Task.ImageClassification</AssemblyName>
+    <RootNamespace>Ailess.Task.ImageClassification</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="TensorFlow.Keras" Version="0.4.0" />
+  </ItemGroup>
+
+</Project>

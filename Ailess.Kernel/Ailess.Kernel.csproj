@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AiTasks\Ailess.Task.ImageClassification\Ailess.Task.ImageClassification.csproj" />
+  </ItemGroup>
+
+</Project>

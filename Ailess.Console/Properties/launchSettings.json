@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Ailess.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "train image-classification"
+    }
+  }
+}

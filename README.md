@@ -1,2 +1,2 @@
 # Ailess.NET
-AI task oriented machine learning library
+Ailess.NET is an out of box and AI task oriented machine learning library.
