@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ailess.Console", "Ailess.Console\Ailess.Console.csproj", "{60CBE339-EE0C-4E47-A84D-04748A6628C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ailess.Kernel", "Ailess.Kernel\Ailess.Kernel.csproj", "{96C6E43D-C1A3-4156-AD99-2D71B49602AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ailess.Kernel", "Ailess.Kernel\Ailess.Kernel.csproj", "{96C6E43D-C1A3-4156-AD99-2D71B49602AB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AiTasks", "AiTasks", "{F066398F-3C63-45AD-BB6B-157AAA1057E6}"
 EndProject
